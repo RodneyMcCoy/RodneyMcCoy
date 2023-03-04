@@ -2,6 +2,7 @@
 
 <h1 align="center">Rodney McCoy's Portfolio</h1>
 
+<div align="center">
   <p align="center"> <a href="#about-me">About Me</a> | <a href="#research">Research</a> | <a href="#tutoring">Tutoring</a> | <a href="#projects">Projects</a> | <a href="#resume-and-cv">Resume / CV</a> </p>
 </div>
 
