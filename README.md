@@ -29,7 +29,8 @@
 
 <ul>
   <li>You can visit my GitHub profile <a href="https://github.com/RodneyMcCoy">here</a>.</li>
-  <li>I occasionally upload to my YouTube channel where i discuss Math and Computer Science. You can visit it <a href = "www.youtube.com">here</a>.</li>
+  <li>I occasionally upload to my YouTube channel where i discuss Math and Computer Science. You can visit it <a href = "https://www.youtube.com/@graph_garden
+">here</a>.</li>
   <li>I do math / cs problems from Project Euler in my free time, you can see my progress <a href = "https://projecteuler.net/progress=RodneyMcCoy">here</a>.</li>
 </ul>
 
