@@ -21,7 +21,7 @@
 <h3 align="left">Tutoring</h3>
 
 
-<p>I work as a math and computer science tutor. Feel free to email me at rbmj2001@outlook.com if you want to talk about mathematics or computer science.</p>
+<p>I work as a math and computer science tutor.</p>
 
 
 <h3 align="left">Projects</h3>
