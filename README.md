@@ -15,7 +15,7 @@
 <h3 align="left">Research</h3>
 
 
-<p>I am currently working on undergraduate research with Dr. Alex Woo. You can view the project im currently working on <a href="https://github.com/RodneyMcCoy/shallow-permutations">here</a>.</p>
+<p>I am currently working on undergraduate research with Dr. Alex Woo. You can view the project I'm currently working on <a href="https://github.com/RodneyMcCoy/shallow-permutations">here</a>.</p>
 
 
 <h3 align="left">Tutoring</h3>
