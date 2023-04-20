@@ -28,9 +28,9 @@
 
 
 <ul>
-  <li>In my free time, I have been working on problems from Project Euler. You can see my progress <a href = "https://projecteuler.net/progress=RodneyMcCoy">here</a>.</li>
   <li>You can visit my GitHub profile <a href="https://github.com/RodneyMcCoy">here</a> with code and other projects i've done.</li>
   <li>Right now, my main focus of study is the relationship between Fourier Analysis and Modular Forms in Analytic Number Theoy.</li>
+  <li>When I have free time (normally only during breaks), I work on problems from Project Euler. You can see my progress <a href = "https://projecteuler.net/progress=RodneyMcCoy">here</a>.</li>
 </ul>
 
 
