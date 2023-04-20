@@ -15,7 +15,7 @@
 <h3 align="left">Research</h3>
 
 
-<p>I am currently working on undergraduate research with Dr. Alex Woo. You can view the project I'm currently working on <a href="https://github.com/RodneyMcCoy/shallow-permutations">here</a>.</p>
+<p>I am currently working on undergraduate research with Dr. Alex Woo relating to measures of disorder on the symmetric group, an inequality derived from them, and an extension of a condition for when equality holds to the group of signed permutations. You can view the project I'm currently working on <a href="https://github.com/RodneyMcCoy/shallow-permutations">here</a>.</p>
 
 
 <h3 align="left">Tutoring</h3>
@@ -29,13 +29,12 @@
 
 <ul>
   <li>In my free time, I have been working on problems from Project Euler. You can see my progress <a href = "https://projecteuler.net/progress=RodneyMcCoy">here</a>.</li>
-  <li>You can visit my GitHub profile <a href="https://github.com/RodneyMcCoy">here</a>.</li>
-  <li>Right now, my main focus of study is on Fourier Analysis in Number Theory.</li>
+  <li>You can visit my GitHub profile <a href="https://github.com/RodneyMcCoy">here</a> with code and other projects i've done.</li>
+  <li>Right now, my main focus of study is the relationship between Fourier Analysis and Modular Forms in Analytic Number Theoy.</li>
 </ul>
 
 
 <h3 align="left">Resume and CV</h3>
 
 
-<p>View my resume <a href="Resume.pdf">here</a>. 
-  View my CV <a href="CV.pdf">here</a>.</p>
+<p>View my resume <a href="Resume.pdf">here</a> and view my CV <a href="CV.pdf">here</a>.</p>
