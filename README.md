@@ -21,7 +21,7 @@
 <h3 align="left">Tutoring</h3>
 
 
-<p>I work as a math and computer science tutor.</p>
+<p>I work as a math and computer science tutor. I will be a funded Teaching Assistant at the University of Utah starting this August.</p>
 
 
 <h3 align="left">Projects</h3>
