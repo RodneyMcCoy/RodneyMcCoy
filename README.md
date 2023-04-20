@@ -21,14 +21,14 @@
 <h3 align="left">Tutoring</h3>
 
 
-<p>I work as a math and computer science tutor. I will be a funded Teaching Assistant at the University of Utah starting this August.</p>
+<p>I work as a math and computer science tutor. In August I will be a funded Teaching Assistant at the University of Utah.</p>
 
 
 <h3 align="left">Projects</h3>
 
 
 <ul>
-  <li>You can visit my GitHub profile <a href="https://github.com/RodneyMcCoy">here</a> with code and other projects i've done.</li>
+  <li>You can visit my GitHub profile <a href="https://github.com/RodneyMcCoy">here</a> to see code, projects, and references to other work i've done.</li>
   <li>Right now, my main focus of study is the relationship between Fourier Analysis and Modular Forms in Analytic Number Theoy.</li>
   <li>When I have free time (normally only during breaks), I work on problems from Project Euler. You can see my progress <a href = "https://projecteuler.net/progress=RodneyMcCoy">here</a>.</li>
 </ul>
