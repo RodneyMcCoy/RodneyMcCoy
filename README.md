@@ -9,7 +9,7 @@
 
 <h3 align="left">About Me</h3>
 
-<p> I like mathematics. </p>
+<p> I will be a math Ph.D. student at the University of Utah starting in August. </p>
 
 
 <h3 align="left">Research</h3>
