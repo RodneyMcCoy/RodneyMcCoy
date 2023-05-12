@@ -18,10 +18,10 @@
 <p>I am currently working on undergraduate research with Dr. Alex Woo relating to measures of disorder on the symmetric group, an inequality derived from them, and an extension of a condition for when equality holds to the group of signed permutations. You can view the project I'm currently working on <a href="https://github.com/RodneyMcCoy/shallow-permutations">here</a>.</p>
 
 
-<h3 align="left">Tutoring</h3>
+<h3 align="left">Teaching</h3>
 
 
-<p>I work as a math and computer science tutor. In August I will be a funded Teaching Assistant at the University of Utah.</p>
+<p>In August I will be a funded Teaching Assistant at the University of Utah.</p>
 
 
 <h3 align="left">Projects</h3>
@@ -29,7 +29,8 @@
 
 <ul>
   <li>You can visit my GitHub profile <a href="https://github.com/RodneyMcCoy">here</a> to see code, projects, and references to other work i've done.</li>
-  <li>Right now, my main focus of study is the relationship between Fourier Analysis and Modular Forms in Analytic Number Theoy.</li>
+  <li>My top areas of interest are in Graph Algorithms, Applied Analysis, and Number Theory
+</li>
   <li>When I have free time (normally only during breaks), I work on problems from Project Euler. You can see my progress <a href = "https://projecteuler.net/progress=RodneyMcCoy">here</a>.</li>
 </ul>
 
