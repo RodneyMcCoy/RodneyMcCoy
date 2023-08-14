@@ -17,5 +17,5 @@
 
 <h3 align="left">Projects</h3>
 <ul>
-  <li>When I have free time (normally only during breaks), I work on problems from Project Euler. You can see my progress <a href = "https://projecteuler.net/progress=RodneyMcCoy">here</a>.</li>
+  <li>When I have free time (normally only during breaks), I work on problems from Project Euler.</li>
 </ul>
