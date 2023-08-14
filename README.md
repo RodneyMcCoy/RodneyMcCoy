@@ -3,18 +3,18 @@
 <h1 align="center">Rodney McCoy's Portfolio</h1>
 
 <div align="center">
-  <p align="center"> <a href="#about-me">About Me</a> | <a href="#research">Research</a> | <a href="#tutoring">Tutoring</a> | <a href="#projects">Projects</a> | <a href="#resume-and-cv">Resume / CV</a> </p>
+  <p align="center"> <a href="#about-me">About Me</a> | <a href="#tutoring">Teaching</a> | <a href="#research">Research</a> | <a href="#projects">Projects</a> | <a href="#resume-and-cv">Resume / CV</a> </p>
 </div>
 
 
 <h3 align="left">About Me</h3>
 
-<p> I am a First Year Math Ph.D. student at the University of Utah. I'm not sure what I want to do research in yet, but my main interests are Algorithms, Applied Analysis, and Number Theory. </p>
+<p> I am a First Year Math Ph.D. student at the University of Utah. My main interests are Algorithms, Applied Analysis, and Number Theory. </p>
 
 <h3 align="left">Teaching</h3>
 
 
-<p>In August I will be a funded Teaching Assistant at the University of Utah.</p>
+<ul> I am currently a funded Teaching Assistant at the University of Utah. I will be (tentativly) be assisting with Differential Equations and Linear Algebra (math 2250) this semester.</ul>
 
 
 
