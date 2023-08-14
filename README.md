@@ -1,7 +1,7 @@
 <h1 align="center">Rodney McCoy's Portfolio</h1>
 
 <div align="center">
-  <p align="center"> <a href="Resume.pdf">Resume</a> | <a href="CV.pdf">CV</a> | <a href="">Other Writing</a> </p>
+  <p align="center"> <a href="Resume.pdf">Resume</a> | <a href="CV.pdf">CV</a> | <a href="https://github.com/RodneyMcCoy/RodneyMcCoy/blob/main/Writings">Other Writing</a> </p>
 </div>
 
 <h3 align="left">About Me</h3>
