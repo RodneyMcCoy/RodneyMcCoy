@@ -1,11 +1,11 @@
-<p align="center"> <img src="RodneyPic.jpg" height=150 style="float: left"> Rodney McCoy's Website</p>
+<h1 align="center"> <img src="RodneyPic.jpg" height=150 style="float: left"> Rodney McCoy's Website</h1>
 
 <div align="center">
   <p> <a href="CV/Resume.pdf">Resume</a> | <a href="CV/CV.pdf">CV</a> | <a href="Calendar.png">Contact Information</a> | <a href="https://github.com/RodneyMcCoy/RodneyMcCoy/tree/main/Projects And Writing">Other Work</a> </p>
 </div>
 
 <h3 align="left">About Me</h3>
-<p> I am a First Year Math Ph.D. student at the University of Utah. My main interests are Algorithms, Applied Analysis, and Number Theory. </p>
+<p> <img src="RodneyPic.jpg" height=150 style="float: left"> I am a First Year Math Ph.D. student at the University of Utah. My main interests are Algorithms, Applied Analysis, and Number Theory. </p>
 
 <h3 align="left">Teaching</h3>
 <ul>
