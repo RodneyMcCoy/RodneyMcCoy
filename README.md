@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <p> <img src="RodneyPic.jpg" height=200 style="text-align: right">    <a href="CV/Resume.pdf">Resume</a> | <a href="CV/CV.pdf">CV</a> | <a href="Calendar.png">Want To Contact Me?</a> | <a href="https://github.com/RodneyMcCoy/RodneyMcCoy/tree/main/Projects And Writing">Other Work</a> </p>
+  <p> <img src="RodneyPic.jpg" height=200 style="float: left"> <a href="CV/Resume.pdf">Resume</a> | <a href="CV/CV.pdf">CV</a> | <a href="Calendar.png">Want To Contact Me?</a> | <a href="https://github.com/RodneyMcCoy/RodneyMcCoy/tree/main/Projects And Writing">Other Work</a> </p>
 </div>
 
 <h3 align="left">About Me</h3>
