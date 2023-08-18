@@ -1,6 +1,7 @@
 <h1 align="center">Rodney McCoy's Website</h1>
 
 | - | - |
+|---|---|
 | <img src="RodneyPic.jpg" height=200> | I am text to the right |
 
 <div align="center">
