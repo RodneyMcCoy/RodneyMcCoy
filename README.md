@@ -1,4 +1,4 @@
-<h1 align="center"> Rodney McCoy's Website</h1>
+<h1 align="center"> Rodney McCoy's Webpage</h1>
 
 <div align="center">
   <p> <a href="CV/Resume.pdf">Resume</a> | <a href="CV/CV.pdf">CV</a> | <a href="Calendar.png">Contact Information</a> | <a href="https://github.com/RodneyMcCoy/RodneyMcCoy/tree/main/Projects And Writing">Other Work</a> </p>
