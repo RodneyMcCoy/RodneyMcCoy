@@ -7,7 +7,7 @@
 <h3 align="left">About Me</h3>
 <p> I am a First Year Math Ph.D. student at the University of Utah. My main interests are Algorithms, Applied Analysis, and Number Theory. </p>
 
-<p align="center"><img src="Calendar.png" height=400></p>
+<p align="center"><img src="Calendar.png" height=700></p>
 
 <h3 align="left">Teaching</h3>
 <ul>
