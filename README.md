@@ -5,7 +5,8 @@
 </div>
 
 <h3 align="left">About Me</h3>
-<p> <img src="RodneyPic.jpg" height=150 style="float: left"> I am a First Year Math Ph.D. student at the University of Utah. My main interests are Algorithms, Applied Analysis, and Number Theory. </p>
+<img src="RodneyPic.jpg" height=150 style="float: right">
+<p>  I am a First Year Math Ph.D. student at the University of Utah. My main interests are Algorithms, Applied Analysis, and Number Theory. </p>
 
 <h3 align="left">Teaching</h3>
 <ul>
