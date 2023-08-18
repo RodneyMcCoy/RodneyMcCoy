@@ -1,8 +1,7 @@
-<h1 align="center">Rodney McCoy's Website</h1>
-
+<img src="RodneyPic.jpg" height=150 style="float: left"> <h1 align="center">Rodney McCoy's Website</h1>
 
 <div align="center">
-  <p> <img src="RodneyPic.jpg" height=150 style="float: left"> <a href="CV/Resume.pdf">Resume</a> </p><p>  | <a href="CV/CV.pdf">CV</a> | <a href="Calendar.png">Want To Contact Me?</a> | <a href="https://github.com/RodneyMcCoy/RodneyMcCoy/tree/main/Projects And Writing">Other Work</a> </p>
+  <p> <a href="CV/Resume.pdf">Resume</a> | <a href="CV/CV.pdf">CV</a> | <a href="Calendar.png">Want To Contact Me?</a> | <a href="https://github.com/RodneyMcCoy/RodneyMcCoy/tree/main/Projects And Writing">Other Work</a> </p>
 </div>
 
 <h3 align="left">About Me</h3>
