@@ -1,4 +1,4 @@
-<h1 align="center">Rodney McCoy's Portfolio</h1>
+<p> align="left"> <img source="RodneyPic.png"> </p>
 
 <div align="center">
   <p align="center"> <a href="CV/Resume.pdf">Resume</a> | <a href="CV/CV.pdf">CV</a> | <a href="Calendar.png">Want To Contact Me?</a> | <a href="https://github.com/RodneyMcCoy/RodneyMcCoy/tree/main/Projects And Writing">Other Work</a> </p>
