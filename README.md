@@ -8,7 +8,7 @@
 <p> I am a First Year Math Ph.D. student at the University of Utah. My main interests are Algorithms, Applied Analysis, and Number Theory. </p>
 
 <h3 align="left">Availability</h3>
-<img src="Calendar.png" height=300>
+<p><img src="Calendar.png" height=200></p>
 
 <h3 align="left">Teaching</h3>
 <ul>
