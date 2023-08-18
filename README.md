@@ -1,13 +1,11 @@
 <h1 align="center">Rodney McCoy's Portfolio</h1>
 
 <div align="center">
-  <p align="center"> <a href="CV/Resume.pdf">Resume</a> | <a href="CV/CV.pdf">CV</a> | <a href="https://github.com/RodneyMcCoy/RodneyMcCoy/tree/main/Projects And Writing">Other Work</a> </p>
+  <p align="center"> <a href="CV/Resume.pdf">Resume</a> | <a href="CV/CV.pdf">CV</a> | <a href="Calendar.png">Want To Contact Me?</a> | <a href="https://github.com/RodneyMcCoy/RodneyMcCoy/tree/main/Projects And Writing">Other Work</a> </p>
 </div>
 
 <h3 align="left">About Me</h3>
 <p> I am a First Year Math Ph.D. student at the University of Utah. My main interests are Algorithms, Applied Analysis, and Number Theory. </p>
-
-<p align="center"><img src="Calendar.png" height=700></p>
 
 <h3 align="left">Teaching</h3>
 <ul>
