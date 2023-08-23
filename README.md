@@ -10,7 +10,7 @@
 
 <h3 align="left">Teaching</h3>
 <ul>
-  <li> I am currently a funded Teaching Assistant at the University of Utah. I will (tentativly) be assisting with Engineering Calculus 1 (Math 1310) this semester. </li>
+  <li> I am a funded Teaching Assistant at the University of Utah. I am instructing two labs for Engineering Calculus 1 (Math 1310) this semester. </li>
 </ul>
 
 <h3 align="left">Research</h3>
