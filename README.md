@@ -15,7 +15,7 @@
 
 <h3 align="left">Research</h3>
 <ul>
-  <li> In Spring 2024, I will be funded by the NSF Research Training Grant in "Inversion And Optimization".</li>
+  <li> In Spring 2024, I will be funded by the NSF - sponsered Research Training Grant "RTG: Optimization and Inversion for the 21st Century Workforce".</li>
   <li> In 2022 - 2023, I was doing undergraduate research with Dr. Alex Woo relating to measures of disorder on the symmetric group, an inequality derived from them, and an extension of a condition for when equality holds to the group of signed permutations. You can view the current state of the project <a href="https://github.com/RodneyMcCoy/shallow-permutations">here</a> as I am still sneaking in some work to try to obtain the major result i was looking for (when is the difference in b oddness 1).
   </li>
 </ul>
