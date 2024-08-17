@@ -5,6 +5,5 @@
 </div>
 
 <h3 align="left">About Me</h3>
-<img src="RodneyPic.jpg" height=150 style="float: right">
 <p>  I am a Second Year Math Ph.D. student at the University of Utah. My main interests are in Graph Theory, and Applied Analysis. </p>
 
