@@ -1,7 +1,7 @@
 <h1 align="center"> Rodney McCoy's Webpage</h1>
 
 <div align="center">
-  <p> <a href="CV/Resume.pdf">Resume</a> | <a href="CV/CV.pdf">CV</a> | <a href="Calendar.pdf">Contact Information</a> </p>
+  <p> <a href="CV/Resume.pdf">Resume</a> | <a href="CV/CV.pdf">CV</a> | <a href="Images/Calendar.pdf">Contact Information</a> </p>
 </div>
 
 <h3 align="left">About Me</h3>
